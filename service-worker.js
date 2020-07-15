@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/WeyesBlood/precache-manifest.1ba7c22f8359fec97391bd80aae2226f.js"
+  "/WeyesBlood/precache-manifest.2613ce61d9d5fb24c26f4b617f2a64a9.js"
 );
 
 self.addEventListener('message', (event) => {

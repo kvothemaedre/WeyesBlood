@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c9228f496ce4f37340ee1f3567f504fd",
+    "revision": "4e7613c9268fafaecaaec1a4718060cf",
     "url": "/WeyesBlood/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeyesBlood/static/js/2.fbf96fe8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6313c74d23db454458c6",
-    "url": "/WeyesBlood/static/js/main.540f7166.chunk.js"
+    "revision": "02eadd355d6b84039f10",
+    "url": "/WeyesBlood/static/js/main.cdf3fafc.chunk.js"
   },
   {
     "revision": "b6ddbef8226d6516d854",

@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/WeyesBlood/static/js/main.540f7166.chunk.js",
-    "main.js.map": "/WeyesBlood/static/js/main.540f7166.chunk.js.map",
+    "main.js": "/WeyesBlood/static/js/main.cdf3fafc.chunk.js",
+    "main.js.map": "/WeyesBlood/static/js/main.cdf3fafc.chunk.js.map",
     "runtime-main.js": "/WeyesBlood/static/js/runtime-main.927d3e6c.js",
     "runtime-main.js.map": "/WeyesBlood/static/js/runtime-main.927d3e6c.js.map",
     "static/js/2.fbf96fe8.chunk.js": "/WeyesBlood/static/js/2.fbf96fe8.chunk.js",
     "static/js/2.fbf96fe8.chunk.js.map": "/WeyesBlood/static/js/2.fbf96fe8.chunk.js.map",
     "index.html": "/WeyesBlood/index.html",
-    "precache-manifest.1ba7c22f8359fec97391bd80aae2226f.js": "/WeyesBlood/precache-manifest.1ba7c22f8359fec97391bd80aae2226f.js",
+    "precache-manifest.2613ce61d9d5fb24c26f4b617f2a64a9.js": "/WeyesBlood/precache-manifest.2613ce61d9d5fb24c26f4b617f2a64a9.js",
     "service-worker.js": "/WeyesBlood/service-worker.js",
     "static/js/2.fbf96fe8.chunk.js.LICENSE.txt": "/WeyesBlood/static/js/2.fbf96fe8.chunk.js.LICENSE.txt",
     "static/media/AboutWeyes.svg": "/WeyesBlood/static/media/AboutWeyes.f37dca74.svg",
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.927d3e6c.js",
     "static/js/2.fbf96fe8.chunk.js",
-    "static/js/main.540f7166.chunk.js"
+    "static/js/main.cdf3fafc.chunk.js"
   ]
 }
