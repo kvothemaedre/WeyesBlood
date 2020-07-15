@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/WeyesBlood/static/js/main.540f7166.chunk.js",
+    "main.js.map": "/WeyesBlood/static/js/main.540f7166.chunk.js.map",
+    "runtime-main.js": "/WeyesBlood/static/js/runtime-main.927d3e6c.js",
+    "runtime-main.js.map": "/WeyesBlood/static/js/runtime-main.927d3e6c.js.map",
+    "static/js/2.fbf96fe8.chunk.js": "/WeyesBlood/static/js/2.fbf96fe8.chunk.js",
+    "static/js/2.fbf96fe8.chunk.js.map": "/WeyesBlood/static/js/2.fbf96fe8.chunk.js.map",
+    "index.html": "/WeyesBlood/index.html",
+    "precache-manifest.1ba7c22f8359fec97391bd80aae2226f.js": "/WeyesBlood/precache-manifest.1ba7c22f8359fec97391bd80aae2226f.js",
+    "service-worker.js": "/WeyesBlood/service-worker.js",
+    "static/js/2.fbf96fe8.chunk.js.LICENSE.txt": "/WeyesBlood/static/js/2.fbf96fe8.chunk.js.LICENSE.txt",
+    "static/media/AboutWeyes.svg": "/WeyesBlood/static/media/AboutWeyes.f37dca74.svg",
+    "static/media/Caroline-Polachek.svg": "/WeyesBlood/static/media/Caroline-Polachek.aa2753f3.svg",
+    "static/media/Half-Waif.svg": "/WeyesBlood/static/media/Half-Waif.8b1c6ca7.svg",
+    "static/media/HeaderWeyes.svg": "/WeyesBlood/static/media/HeaderWeyes.269965d8.svg",
+    "static/media/PerformingWeyes.svg": "/WeyesBlood/static/media/PerformingWeyes.819729fe.svg",
+    "static/media/Roboto-Regular.ttf": "/WeyesBlood/static/media/Roboto-Regular.11eabca2.ttf",
+    "static/media/WeyesFloat.png": "/WeyesBlood/static/media/WeyesFloat.8c0b47f8.png",
+    "static/media/WeyesWater.gif": "/WeyesBlood/static/media/WeyesWater.70e5b5d4.gif",
+    "static/media/julia-holter.svg": "/WeyesBlood/static/media/julia-holter.4b474e64.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.927d3e6c.js",
+    "static/js/2.fbf96fe8.chunk.js",
+    "static/js/main.540f7166.chunk.js"
+  ]
+}
