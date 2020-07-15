@@ -9,7 +9,7 @@ const GlobalStyle = createGlobalStyle`
     padding : 0;
     // transition: top 0.9s ;
     scroll-behavior: smooth;
-
+    background : rgb(192,192,192);
   }
 `
 

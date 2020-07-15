@@ -10,7 +10,7 @@ export default styled.div`
     
 
     max-width: 64rem;
-    width: 80%;
+    width: 70%;
     margin: 0rem auto;
     position: relative;
     z-index: 0;

@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export default styled.p`
+export default styled.span`
 align : center;
 margin-left : 15vw;
 margin-right : 15vw;

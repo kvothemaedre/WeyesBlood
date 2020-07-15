@@ -13,9 +13,20 @@ const Wrapper = styled.div`
     transform : translate(0,-50%);
     z-index : 0;
     transition : all 0.4s;
+    
 `
 
 const NavLink = styled(Link)`
+    &:active{
+        color : grey;
+    }
+    &:visited {
+        color : black;
+    }
+    &:hover {
+        color : grey;
+    }
+    
     text-decoration : none;
     font-size : 1.2em;
 `
@@ -23,9 +34,9 @@ const NavLink = styled(Link)`
 function NavBar() {
     return (
         <Wrapper>
-            <NavLink to={`/home/#headerBody`}>BODY</NavLink>
+            <NavLink to={`/home/#headerBody`}>TITANICE RISING</NavLink>
             <NavLink to={`/home/#about`}>ABOUT</NavLink>
-            <NavLink to={`/home/#more`}>MORE</NavLink>
+            <NavLink to={`/home/#similar`}>SIMILAR</NavLink>
             <NavLink to={`/home/#spotify`}>SPOTIFY</NavLink>
         </Wrapper>
     )

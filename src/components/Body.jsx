@@ -5,17 +5,20 @@ import PerformingWeyes from "../images/PerformingWeyes.svg"
 
 
 const Wrapper = styled.div`
-@font-face {
-    font-family: 'OurFont';
-    src: url(${roboto}) format('ttf');
-    font-style: normal;
-  }
+    @font-face {
+        font-family: 'OurFont';
+        src: url(${roboto}) format('ttf');
+        font-style: normal;
+    }
     
 
     max-width: 64rem;
-    width: 80%;
+    width: 70%;
     margin: 0rem auto;
     margin-top : 10vw;
+    margin-bottom : 10vw;
+    padding-left: 0;
+    padding-right : 0;
     position: relative;
     z-index: 1;
     flex-direction: column;
